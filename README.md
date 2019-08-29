@@ -23,9 +23,9 @@
 
 	<img src="./assets/fork.png" alt="fork" width="30%" height="30%">
 
-2. Clone the repo to you local machine - `git clone  <repo-name>`
+2. Clone the repo to you local machine - `git clone  <repo-https>`. *See the image below for where to copy repo https.*
 
-	<img src="./assets/clone.png" alt="fork" width="30%" height="30%">
+	<img src="./assets/clone.png" alt="fork" width="25%" height="25%">
 
 ## Resources
 
