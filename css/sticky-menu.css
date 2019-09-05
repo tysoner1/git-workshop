@@ -78,5 +78,6 @@ html {
     color: #000;
 }
 
-
-
+.about-me-item h4, p {
+    display: inline;
+}
