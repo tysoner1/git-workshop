@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://atomicobject.com/">
-    <img src="./assets/AO_Emblem_RGB_FullColor.png" alt="Atomic logo" width="240" height="240">
+    <img src="./site-assets/AO_logo.png" alt="Atomic logo" width="240" height="240">
   </a>
 </p>
 <h3 align="center">Git Workshop</h3>
