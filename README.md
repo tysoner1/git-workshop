@@ -1,4 +1,4 @@
-# cell-two-git-workshop
+# git-workshop
 
 <p align="center">
   <a href="https://atomicobject.com/">
@@ -47,9 +47,9 @@
 
 ## Resources
 
-Go to the Wiki to view the [*Cheat Sheet*](https://github.com/atomicobject/cell-two-git-workshop/wiki/Cheat-Sheet) for a quick quide to the basic Git commands and [*References*](https://github.com/atomicobject/cell-two-git-workshop/wiki/References) for a more indepth explanation of terms.
+Go to the Wiki to view the [*Cheat Sheet*](https://github.com/atomicobject/git-workshop/wiki/Cheat-Sheet) for a quick quide to the basic Git commands and [*References*](https://github.com/atomicobject/git-workshop/wiki/Reference-Manual) for a more indepth explanation of terms.
 
-All the slides from the workshop are available [here](https://github.com/atomicobject/cell-two-git-workshop/blob/master/Git%20Workshop.pdf).
+All the slides from the workshop are available [here](https://github.com/atomicobject/git-workshop/blob/master/Git%20Workshop%20Slides.pdf).
 
 ## Creators
 * Brian May
