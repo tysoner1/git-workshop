@@ -49,7 +49,7 @@
 
 Go to the Wiki to view the [*Cheat Sheet*](https://github.com/atomicobject/cell-two-git-workshop/wiki/Cheat-Sheet) for a quick quide to the basic Git commands and [*References*](https://github.com/atomicobject/cell-two-git-workshop/wiki/References) for a more indepth explanation of terms.
 
-All the slides from the workshop are available [here](https://github.com/atomicobject/cell-two-git-workshop/blob/master/Git%20Workshop.pdf)
+All the slides from the workshop are available [here](https://github.com/atomicobject/cell-two-git-workshop/blob/master/Git%20Workshop.pdf).
 
 ## Creators
 * Brian May
@@ -58,4 +58,4 @@ All the slides from the workshop are available [here](https://github.com/atomico
 * Meredith Lind
 
 ### Check out the Accelerator Program
-Interested in learning more about Atomic object? [Read more about it](https://atomicobject.com/careers/accelerator)
+Interested in learning more about Atomic object? [Read more about it](https://atomicobject.com/careers/accelerator).
